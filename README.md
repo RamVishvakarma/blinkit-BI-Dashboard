@@ -2,14 +2,19 @@
 
 <h1>Project Report: Interactive Sales Dashboard for Blinkit</h1>
 Introduction
-This project demonstrates the creation of an interactive dashboard using Power BI to analyze sales data for Blinkit, an online grocery shopping app developed by Zomato. The dashboard highlights dynamic features that facilitate real-time data interaction and visualization. It integrates various Key Performance Indicators (KPIs) such as total sales, average sales, the number of items sold, and average ratings for different product categories. Additionally, the project incorporates filters to visualize sales data based on parameters such as fat content, outlet size, and item type. The emphasis on data preparation ensures accurate and reliable insights.
+This project demonstrates the creation of an interactive dashboard using Power BI to analyze sales data for Blinkit, an online grocery shopping app developed by Zomato. 
+The dashboard highlights dynamic features that facilitate real-time data interaction and visualization. 
+It integrates various Key Performance Indicators (KPIs) such as total sales, average sales, the number of items sold, and average ratings for different product categories. 
+Additionally, the project incorporates filters to visualize sales data based on parameters such as fat content, outlet size, and item type. 
+The emphasis on data preparation ensures accurate and reliable insights.
 
 ![image alt](https://github.com/RamVishvakarma/blinkit-BI-Dashboard/blob/46ab9bf28509db73eaebf61b4ee5440df7f1434a/Screenshot%202025-01-08%20153805.png)
 
 
-Project Highlights
+<h3>Project Highlights</h3>
 Dynamic Dashboard Creation
-The project focuses on building a dynamic and interactive dashboard using Power BI. Users can interact with data visualizations to explore trends, identify patterns, and make informed decisions.
+The project focuses on building a dynamic and interactive dashboard using Power BI. 
+Users can interact with data visualizations to explore trends, identify patterns, and make informed decisions.
 Sales Analysis of Blinkit
 The analysis centers on Blinkit's sales data, providing insights into customer preferences, sales performance, and product trends.
 Key Performance Indicators (KPIs)
