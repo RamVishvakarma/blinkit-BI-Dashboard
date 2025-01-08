@@ -32,7 +32,7 @@ Average Ratings: Reflects customer feedback on various product categories.</h5>
 <h6>Interactive Filters
 Filters enable users to visualize specific data points.</h6>
 
-<h5>Examples include:
+<h5>Examples include:<br>
 Fat Content: Segments data by low, medium, or high-fat content items.<br>
 Outlet Size: Differentiates performance across small, medium, and large outlets.<br>
 Item Type: Focuses on product categories such as beverages, snacks, or household items.</h5>
@@ -44,11 +44,12 @@ Thorough data preparation ensures the analysis is accurate and meaningful.
 
 <h5>Steps include:
 
-Checking for inconsistencies and duplicates.<br>
-Filling missing values.<br>
-Ensuring data quality and consistency.<br>
-Visual Insights Generation<br>
-Various chart types, such as bar charts and donut charts, are used to generate clear and actionable insights.<br>
+1)Checking for inconsistencies and duplicates.<br>
+2)Filling missing values.<br>
+3)Ensuring data quality and consistency.<br>
+4)Visual Insights Generation<br>
+5)Various chart types, such as bar charts and donut charts, are used to generate clear and actionable insights.<br>
+
 These visualizations simplify complex datasets, making them accessible to stakeholders.</h5>
 
 Key Insights
