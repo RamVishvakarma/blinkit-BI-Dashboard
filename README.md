@@ -7,10 +7,10 @@ The dashboard highlights dynamic features that facilitate real-time data interac
 It integrates various Key Performance Indicators (KPIs) such as total sales, average sales, the number of items sold, and average ratings for different product categories. 
 Additionally, the project incorporates filters to visualize sales data based on parameters such as fat content, outlet size, and item type. 
 The emphasis on data preparation ensures accurate and reliable insights.<br>
-
+<br>
 
 ![image alt](https://github.com/RamVishvakarma/blinkit-BI-Dashboard/blob/46ab9bf28509db73eaebf61b4ee5440df7f1434a/Screenshot%202025-01-08%20153805.png)
-
+<br>
 
 <h3>Project Highlights</h3>
 <h4>Dynamic Dashboard Creation</h4>
