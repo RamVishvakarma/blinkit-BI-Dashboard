@@ -6,7 +6,7 @@ This project demonstrates the creation of an interactive dashboard using Power B
 The dashboard highlights dynamic features that facilitate real-time data interaction and visualization. 
 It integrates various Key Performance Indicators (KPIs) such as total sales, average sales, the number of items sold, and average ratings for different product categories. 
 Additionally, the project incorporates filters to visualize sales data based on parameters such as fat content, outlet size, and item type. 
-The emphasis on data preparation ensures accurate and reliable insights.
+The emphasis on data preparation ensures accurate and reliable insights.<br>
 
 
 ![image alt](https://github.com/RamVishvakarma/blinkit-BI-Dashboard/blob/46ab9bf28509db73eaebf61b4ee5440df7f1434a/Screenshot%202025-01-08%20153805.png)
@@ -39,9 +39,12 @@ Item Type: Focuses on product categories such as beverages, snacks, or household
 
 <h4>Data Cleaning and Preparation</h4>
 
+
 Thorough data preparation ensures the analysis is accurate and meaningful. 
+
 <h5>Steps include:
-<br>Checking for inconsistencies and duplicates.
+
+Checking for inconsistencies and duplicates.<br>
 Filling missing values.<br>
 Ensuring data quality and consistency.<br>
 Visual Insights Generation<br>
